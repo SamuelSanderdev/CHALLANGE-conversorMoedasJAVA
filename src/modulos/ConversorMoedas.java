@@ -18,16 +18,16 @@ public class ConversorMoedas{
         quantidade = Double.parseDouble(leitura.nextLine());
         quantidadeConvertida = (quantidade * moeda.conversion_rate());
         System.out.println(quantidade + " " + moedaBase + " = " + quantidadeConvertida + " " + moedaDestino);
-        System.out.println("<<<--------------------->>> \n8");
+        System.out.println("<<<--------------------->>> \n");
     }
     public static void converteOutraMoeda(ConsultarMoeda consulta, Scanner leitura){
-        System.out.println("<<<--------------------->>>");
+        System.out.println("<<<----------------->>>");
         System.out.println("Digite qual moeda você quer trocar:");
         String moedaBase = leitura.nextLine().toUpperCase();
         System.out.println("Digite por qual moeda você quer trocar: ");
         String moedaDestino = leitura.nextLine().toUpperCase();
         converter(moedaBase, moedaDestino, consulta, leitura);
-        System.out.println("<<<-------------------->>>");
+
 
     }
 }
