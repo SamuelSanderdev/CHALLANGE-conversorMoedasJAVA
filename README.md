@@ -60,8 +60,10 @@ Escolha o tipo de conversão que deseja realizar:
 4- Real Brasileiro para Dólar
 5- Dólar para Peso Colombiano
 6- Peso Colombiano para Dólar
-7- Converter outra moeda
-8- Sair
+7- Converter Euro para Real brasileiro
+8- Converter outra moeda
+9- Sair
+          
 ***-----------------------------***
 ```
 Após selecionar uma das opções, o programa solicita o valor que você deseja converter e retorna o valor convertido utilizando a taxa de câmbio atual.
