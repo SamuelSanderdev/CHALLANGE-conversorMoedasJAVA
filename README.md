@@ -83,7 +83,7 @@ Este projeto foi uma experiência incrível! 🎉 Fiquei muito feliz em poder ap
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/conversor-moedas.git
+    git clone https://github.com/SamuelSanderdev/CHALLANGE-conversorMoedasJAVA.git
     ```
 
 2. Importe o projeto em sua IDE favorita.
