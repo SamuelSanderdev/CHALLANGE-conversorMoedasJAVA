@@ -1,6 +1,6 @@
-# 🌍 Currency Converter Application
+# 🌍  Conversor de Moedas
 
-Bem-vindo ao **Currency Converter Application**! Este projeto foi desenvolvido em **Java** e utiliza a **ExchangeRate-API** para converter diferentes moedas com base em taxas de câmbio reais.
+Bem-vindo ao **Conversor de Moedas**! Este projeto foi desenvolvido em **Java** e utiliza a **ExchangeRate-API** para converter diferentes moedas com base em taxas de câmbio reais.
 
 ## 🚀 Funcionalidades
 
