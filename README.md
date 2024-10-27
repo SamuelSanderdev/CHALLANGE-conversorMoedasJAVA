@@ -66,6 +66,16 @@ Escolha o tipo de conversão que deseja realizar:
           
 ***-----------------------------***
 ```
+## 📹 Exemplo de Execução em Vídeo
+
+
+Este vídeo mostra o programa em ação, guiando o usuário pelas diferentes opções de conversão e exibindo os resultados com base nas taxas de câmbio atuais.
+
+## Exemplo de Execução
+
+[![Clique aqui para acessar o Conversor de Moedas](./thunb_conversor.png)](https://youtu.be/3bOgmsx6xCs)
+
+
 Após selecionar uma das opções, o programa solicita o valor que você deseja converter e retorna o valor convertido utilizando a taxa de câmbio atual.
 
 ## 🎯 Tecnologias Utilizadas
